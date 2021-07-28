@@ -1,1 +1,0 @@
-# ahocorasick-java-rust
