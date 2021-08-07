@@ -1,0 +1,12 @@
+[package]
+name = "optimize"
+version = "0.1.0"
+authors = ["Gilmar Soares <linux.soares@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+jni = "0.17.0"
+aho-corasick = "0.7.18"
+[lib]
+name = "optimize"
+crate-type = ["cdylib"]
